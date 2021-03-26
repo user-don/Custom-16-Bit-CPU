@@ -13,4 +13,6 @@ Example computation
 <img width="704" alt="Screen Shot 2021-03-25 at 10 51 09 PM" src="https://user-images.githubusercontent.com/9117105/112588438-a108ab00-8dbc-11eb-8d87-7d2d6f71af1b.png">
 
 CPU Diagram
+
+
 <img width="669" alt="Screen Shot 2021-03-25 at 10 42 00 PM" src="https://user-images.githubusercontent.com/9117105/112587746-63575280-8dbb-11eb-8046-40eca36321eb.png">
